@@ -13,3 +13,18 @@ Description: Best BekEs Themes
 Name: Big iOSur
 Author: BekEs - بيكاس
 
+Package: com.bekes-505.github.io.Morandi
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Themes
+Maintainer: @B6_7E
+Filename: ./debs//com.bekes-505.github.io.morandi_0.3.deb
+Size: 6745254
+MD5sum: d78030b6b33ea7e05c31d258b378cac2
+SHA1: f95caa3ffe7985a3dd60081c49efb9d5a48e9030
+SHA256: 91f0fd19fdf6ff9b815efb4b23143e86319ace81927e2b22eacd433a89057357
+SHA512: 2abf52f46ab9e50fc4fb0c3ab1b3eb0d1c1e79974e91fb63bda60ba7d27fbbdcda2bed518dad2168a552e4b73053be52c70ddba15791a2ba5646740351df8f2a
+Description: Best BekEs Themes
+Name: Morandi
+Author: BekEs - بيكاس
+
