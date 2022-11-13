@@ -3,12 +3,13 @@ Architecture: iphoneos-arm
 Version: 2.0.2
 Section: Themes
 Maintainer: @B6_7E
-Filename: ./debs//com.bekes-505.github.io.bigiosur_2.0.deb
-Size: 71130454
-MD5sum: e38b9e28ad0e45bced7c92e88dd5ba7c
-SHA1: cae6dcb3f388f7f38034e3cf6baca2a7724e06a7
-SHA256: c84882dc5088a5535c3baee1dbb6115caa3845523cb31349c91a229075393058
-SHA512: 235af7f9d086f1b25c0658753dac464d848c460931a9f85744cf63109e08fb3b085e7d3883545ee7730f3a0807a86a977b751414d15789c43ca0413f4ec34e8c
+Filename: ./debs//com.bekes-505.github.io.BigiOSur_2.0.2_iphoneos-arm.deb
+Size: 71130470
+MD5sum: 939c436c896a796353425c9a6ab2678a
+SHA1: 57b83bcfe77941515bea7c9d699d87f6a0eac167
+SHA256: 789b3e94969cc1034a45a1da328de188cd20a35b00d0a1f82b3cbd1107abd7e6
+SHA512: 81af9cadc74e377145626865b92a88f86af2b60853bcb6f589325399393871950d49ba06d9f8971505c85e16e4f8d3cfa560c4d901727a83ad7d17b7168eab05
+Description: Best BekEs Themes
 Name: Big iOSur
 Author: BekEs - بيكاس
 
