@@ -1,0 +1,11 @@
+Origin: A Theme - بيكاس
+Label: [BK] بيكاس
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: BekEs Best Repo for all Theme! Cydia + Sileo + Installer + Zebra!.
+MD5Sum:
+ 4d69b04d25032f9ee6cb7cd64aa2ebc3 535 Packages
+ ce88cacf280bb5dfd7a314d37279b965 434 Packages.bz2

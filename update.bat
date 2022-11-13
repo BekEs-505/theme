@@ -1,0 +1,1 @@
+bash -c "cd /var/mobile/Theme; ./update.sh"
