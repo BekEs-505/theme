@@ -1,30 +1,14 @@
-Package: com.bekes-505.github.io.BigiOSur
+Package: com.check0ver.AccentCardsOPW
+Version: 1.1.2
 Architecture: iphoneos-arm
-Version: 2.0.2
-Section: Themes
-Maintainer: @B6_7E
-Filename: ./debs//com.bekes-505.github.io.BigiOSur_2.0.2_iphoneos-arm.deb
-Size: 71130470
-MD5sum: 939c436c896a796353425c9a6ab2678a
-SHA1: 57b83bcfe77941515bea7c9d699d87f6a0eac167
-SHA256: 789b3e94969cc1034a45a1da328de188cd20a35b00d0a1f82b3cbd1107abd7e6
-SHA512: 81af9cadc74e377145626865b92a88f86af2b60853bcb6f589325399393871950d49ba06d9f8971505c85e16e4f8d3cfa560c4d901727a83ad7d17b7168eab05
-Description: Best BekEs Themes
-Name: Big iOSur
-Author: BekEs - بيكاس
-
-Package: com.bekes-505.github.io.Morandi
-Architecture: iphoneos-arm
-Version: 0.3.0
-Section: Themes
-Maintainer: @B6_7E
-Filename: ./debs//com.bekes-505.github.io.morandi_0.3.deb
-Size: 6745254
-MD5sum: d78030b6b33ea7e05c31d258b378cac2
-SHA1: f95caa3ffe7985a3dd60081c49efb9d5a48e9030
-SHA256: 91f0fd19fdf6ff9b815efb4b23143e86319ace81927e2b22eacd433a89057357
-SHA512: 2abf52f46ab9e50fc4fb0c3ab1b3eb0d1c1e79974e91fb63bda60ba7d27fbbdcda2bed518dad2168a552e4b73053be52c70ddba15791a2ba5646740351df8f2a
-Description: Best BekEs Themes
-Name: Morandi
-Author: BekEs - بيكاس
+Maintainer: UAE_AD1001
+Depends: com.check0ver.icone (>=1.8)
+Filename: ./debs/com.check0ver.accentcardsopw_1.1.2_iphoneos-arm.deb
+Size: 7619472
+MD5sum: de5717470fef0356e64665a5a473623c
+SHA1: 27c1ff53c9f94668ed47e6785db3d327e73a34bf
+SHA256: 5f4e93cd2e4fdcd218fc97d7e04e096164688f2d7f63ba23446402ff338d81ae
+Section: Packix Widgets
+Author: @UAE_AD1001
+Name: Accent Cards OPW
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Screenshots</title>
+  <title>预览图</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -51,7 +51,7 @@
             dataType: "xml",
             url     : (bundleid+"/info.xml"),
             success : function(xml){
-				document.title = "Screenshots"; //$(xml).find("package>name").text();
+				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
             },
 			cache   : false,
@@ -69,7 +69,7 @@
 
 <div id="packageInformation">
 	<div class="container">
-		<!--<h5>SCREENSHOTS</h5>-->
+		<h5>SCREENSHOTS</h5>
 		<ul id="screenshotsList" class="list-group">
 		</ul>
 	</div>
@@ -124,7 +124,7 @@
 
 <div id="contactInfo">
 	<div class="container">
-		<h5> </h5>
+		<h5>CONTACT</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
