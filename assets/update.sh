@@ -9,9 +9,9 @@ echo "Rebuilding package list..."
 echo "--------------------------"
 
 rm -f Packages*
-dpkg-scanpackages -m ./debs /dev/null > Packages
+dpkg-scanpackages -m ./debs /var/mobile/Theme > Packages
 bzip2 -k Packages
-./dpkg-scanpackages -m ./debians/ /dev/null > Packages
+./dpkg-scanpackages -m ./debians/ /var/mobile/Theme > Packages
 
 echo "--------------------------"
 echo "Done."
