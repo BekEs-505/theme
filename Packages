@@ -1,29 +1,57 @@
-Package: com.check0ver.AbansisColorsRootless
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: @UAE_AD1001
-Filename: ./debs/com.check0ver.abansiscolorsrootless_1.2_iphoneos-arm.deb
-Size: 8753250
-MD5sum: d364732569ac6ea3092935f0d9f9d3eb
-SHA1: 8701df7899147362aad864497cb9a1a6f4128a0a
-SHA256: dd50b4b7eba5ab59c85b57a3bdbfe9ea40150b312574a51951c0cc2a4867d204
-Section: Rootless
-Description: ثيم جميل يحتوي على 372 ايقونه وبعض الاضافات الجماليه
-Author: unknown
-Icon: https://check0ver.com/icon/icon1.png
-Name: Abansis Colors Rootless
 
-Package: com.check0ver.AccentCardsOPW
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: UAE_AD1001
-Depends: com.check0ver.icone (>=1.8)
-Filename: ./debs/com.check0ver.accentcardsopw_1.1.2_iphoneos-arm.deb
-Size: 7619472
-MD5sum: de5717470fef0356e64665a5a473623c
-SHA1: 27c1ff53c9f94668ed47e6785db3d327e73a34bf
-SHA256: 5f4e93cd2e4fdcd218fc97d7e04e096164688f2d7f63ba23446402ff338d81ae
-Section: Packix Widgets
-Author: @UAE_AD1001
-Name: Accent Cards OPW
+Package: WATranslator
+Version: Dopamine
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: WATranslator package for iOS
+Section: Tweaks
+Filename: ./debs/WATranslator_Dopamine_1.3.deb
+Size: 29920
+Installed-Size: 29
+MD5sum: e52afbd6e3116b20d8d14b96fbd29ade
+SHA1: 7768e1ab3b92b7edfd18a74b2242f1effbacb43d
+SHA256: 6c1484fea70465f790953870fd7e9c2730e73c4827e2862a59faf835884b63d8
+Name: WATranslator
+
+Package: com.yourname.wamultisend
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: com.yourname.wamultisend package for iOS
+Section: Tweaks
+Filename: ./debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7650
+Installed-Size: 7
+MD5sum: 12001b2f6e53ef5e86c26167b6a37613
+SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
+SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
+Name: com.yourname.wamultisend
+
+Package: A-FontRootless.deb
+Version: 
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: A-FontRootless.deb package for iOS
+Section: Tweaks
+Filename: ./debs/A-FontRootless.deb
+Size: 1621940
+Installed-Size: 1583
+MD5sum: 79da18011a5cbf640b2af05491aed37e
+SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
+SHA256: 316b27f27c91e332e1c0578eb560aa57581130021c224f59e12dc16bb4a4c869
+Name: A-FontRootless.deb
+
+Package: com.xandesign.FelicityPro
+Version: 4.1
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: com.xandesign.FelicityPro package for iOS
+Section: Tweaks
+Filename: ./debs/com.xandesign.FelicityPro_4.1_iphoneos-arm.deb
+Size: 23601446
+Installed-Size: 23048
+MD5sum: 4ae38ef3389c184fdc7c1c6dffc04cc1
+SHA1: 702a963381b467c35e9497d80daa921dbef0dd20
+SHA256: 740723a971bae270370cdf7ca5572f48233e9b2fce2bed8220caa3a58c8356a6
+Name: com.xandesign.FelicityPro
 
