@@ -1,0 +1,14 @@
+Package: com.check0ver.AllegroRootless
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: com.check0ver.AllegroRootless package for iOS
+Section: Tweaks
+Filename: ./debs/com.check0ver.AllegroRootless_1.0.5_iphoneos-arm64.deb
+Size: 31126580
+Installed-Size: 30397
+MD5sum: 2a458bd0e69a08ede1f790bbd516beeb
+SHA1: dd4122330c062b7faed9f82bfa24facf5fff86c6
+SHA256: 1b2da3169df6e256d7b6e34332a0f4299dceb0c7527a0506893d04612f739fb6
+Name: com.check0ver.AllegroRootless
+
