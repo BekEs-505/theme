@@ -69,3 +69,17 @@ SHA1: cc1fc2dcbe3e864dfac464596e0f96362bad0f85
 SHA256: c8e3b986f078c92c6e0129ae0a6233c42466fa5eb63b99d9c69342969ef0faba
 Name: com.check0ver.3DworldRootless
 
+Package: SnowBoard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: 
+Description: SnowBoard package for iOS
+Section: Tweaks
+Filename: ./debs/SnowBoard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1428458
+Installed-Size: 1394
+MD5sum: f6eef643e7277995e496032634115ee7
+SHA1: 7970373592e0f4c9eefbc4324853ee2ca59d4468
+SHA256: f60693a617b34a57545048f114336e7d0d5b275f6f3d8d92f41f92456c4ba6ad
+Name: SnowBoard
+
