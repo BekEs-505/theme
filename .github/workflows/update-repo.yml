@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'debs/**/*.deb'
-    branches: [ main ]
+    branches: [ main, master ]
 
 jobs:
   update-packages:
