@@ -1,0 +1,40 @@
+name: Update Repository Packages
+
+on:
+  push:
+    paths:
+      - 'debs/**/*.deb'
+    branches: [ main ]
+
+jobs:
+  update-packages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev curl
+
+      - name: Scan for new DEB packages
+        run: |
+          mkdir -p debs
+          dpkg-scanpackages debs /dev/null > Packages
+          gzip -9c < Packages > Packages.gz
+          bzip2 -9c < Packages > Packages.bz2
+          xz -9c < Packages > Packages.xz
+
+      - name: Commit and push updated repository files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Packages Packages.gz Packages.bz2 Packages.xz
+          git commit -m "Automated update of repository packages" || echo "No changes to commit"
+          git push
