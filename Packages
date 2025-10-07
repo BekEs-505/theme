@@ -1,0 +1,19 @@
+Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/SnowBoard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1428458
+MD5sum: f6eef643e7277995e496032634115ee7
+SHA1: 7970373592e0f4c9eefbc4324853ee2ca59d4468
+SHA256: f60693a617b34a57545048f114336e7d0d5b275f6f3d8d92f41f92456c4ba6ad
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
